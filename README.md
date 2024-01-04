@@ -34,3 +34,10 @@ In a separate terminal execute:
 ### 7. Start frontend
 In a separate terminal execute:
 `$ npm run start`
+
+
+### Este proyecto tiene hecho un deploy en Vercel. Dejo el enlace para quien quiera verlo debajo. 
+dapp-cord-solidity-js.vercel.app
+
+### This project has been deployed in Vercel. I leave the link for whoever wants to see it below.
+dapp-cord-solidity-js.vercel.app
